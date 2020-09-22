@@ -24,5 +24,9 @@ namespace PubBase.Pages
         {
             Pubs = _db.Pubs.ToList();
         }
+        /*
+         * _db.Pubs.Add(New Pub{bez id!, name, muni});
+         * _db.SaveChanges();
+         */
     }
 }
