@@ -7,4 +7,12 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <table class="table">
+        @foreach(var p in Model.Pubs)
+        {
+            <tr>
+                <td>@p.Name</td>
+            </tr>
+        }
+    </table>
 </div>
