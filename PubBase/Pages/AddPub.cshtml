@@ -1,0 +1,21 @@
+﻿@page
+@model PubBase.Pages.AddPubModel
+@{
+    ViewData["Title"] = "AddPub";
+}
+
+<h1>AddPub</h1>
+
+<form method="post">
+    <div class="form-check">
+        <input class="form-check-input" type="text" asp-for="@Model.Name" value="" placeholder="Name">
+        <label class="form-check-label">
+            <abbr data-title="">Jméno hospody</abbr>
+        </label>
+        <input class="form-check-input" type="text" asp-for="@Model.Muni" value="" placeholder="Adress">
+        <label class="form-check-label">
+            <abbr data-title="">Adresa hospody</abbr>
+        </label>
+        <input type="submit"/>
+    </div>
+</form>
