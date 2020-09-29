@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filplas018\\source\\repos\\PubBase\\PubBase\\PubBase.csproj": {}
+    "C:\\Users\\filplas018\\source\\repos\\PubBaseHw\\PubBase\\PubBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filplas018\\source\\repos\\PubBase\\PubBase\\PubBase.csproj": {
+    "C:\\Users\\filplas018\\source\\repos\\PubBaseHw\\PubBase\\PubBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filplas018\\source\\repos\\PubBase\\PubBase\\PubBase.csproj",
+        "projectUniqueName": "C:\\Users\\filplas018\\source\\repos\\PubBaseHw\\PubBase\\PubBase.csproj",
         "projectName": "PubBase",
-        "projectPath": "C:\\Users\\filplas018\\source\\repos\\PubBase\\PubBase\\PubBase.csproj",
+        "projectPath": "C:\\Users\\filplas018\\source\\repos\\PubBaseHw\\PubBase\\PubBase.csproj",
         "packagesPath": "C:\\Users\\filplas018\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filplas018\\source\\repos\\PubBase\\PubBase\\obj\\",
+        "outputPath": "C:\\Users\\filplas018\\source\\repos\\PubBaseHw\\PubBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

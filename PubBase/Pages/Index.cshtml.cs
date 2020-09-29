@@ -24,5 +24,15 @@ namespace PubBase.Pages
         {
             Pubs = _db.Pubs.ToList();
         }
+        /*
+         * var pub = _db.Pubs.Find(id);
+         * var pub = _db.Pubs.Where( p => p.Name == "U tupé vydry").ToList()/FirstOrDefault()/SingleOrDefault(); všechny nebo první 
+         * if(pub != null){ }
+         * pub.Name = "U chytrého hrocha";
+         * _db.SaveChanges();
+         * 
+         * pub.Remove();
+         *  _db.SaveChanges();
+         */
     }
 }

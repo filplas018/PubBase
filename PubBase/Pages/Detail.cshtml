@@ -1,0 +1,16 @@
+﻿@page
+@model PubBase.Pages.DetailModel
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>Detail</h1>
+<p><a asp-page="./Index">Seznam</a></p>
+<dl>
+    <dt>Název</dt>
+    <dd>@Model.Pub.Name</dd>
+    <dt>Obec</dt>
+    <dd>@Model.Pub.Municipality</dd>
+</dl>
+
+

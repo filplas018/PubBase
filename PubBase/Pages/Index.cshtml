@@ -9,7 +9,17 @@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
     @foreach(var i in Model.Pubs)
     {
-        <p>@i.Name : @i.Municipality</p>
+        <tr>
+            <td>
+                @i.Name
+            </td>
+            <td>
+                @i.Municipality
+            </td>
+            <td>
+                <a class="btn btn-info" asp-page="./Detail" asp-route-id="@i.Id">Detail</a>
+            </td>
+        </tr>
     }
     <a href="AddPub"><span>Přidat hospodu</span></a>
 </div>

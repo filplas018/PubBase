@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nuxEqsRZuqAm/BTf22Zf042BA8eXu1ONp6cTtJ4s70rxYKxPKGtmz/zixc69tL4ipKlGDA2pi/QUc47hNv5/kw==",
+  "dgSpecHash": "ynbrONcSVn0guTmO3QUVN7Bs0lSWEQxBDs0MazJxyU3M+ITMSLOvByrwDrtBX8sLNiXsgEjcqv72sbBZ4Ex2sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\filplas018\\source\\repos\\PubBase\\PubBase\\PubBase.csproj",
+  "projectFilePath": "C:\\Users\\filplas018\\source\\repos\\PubBaseHw\\PubBase\\PubBase.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
